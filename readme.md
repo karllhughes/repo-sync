@@ -17,7 +17,7 @@ branches we wanted.
 - [Github v3 Repository API](https://developer.github.com/v3/repos/#enabling-and-disabling-branch-protection)
 
 ## License
-Copyright 2016, Karl L. Hughes <khughes.me@gmail.com
+Copyright 2016, Karl L. Hughes <khughes.me@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
